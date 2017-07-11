@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1499729256 source:c:\users\achraf\codeblocks\geneticalgo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
